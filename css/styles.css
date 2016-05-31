@@ -1,12 +1,12 @@
 .img-responsive {
-  max-width: 300px;;
-
+  max-width: 300px;
 }
 
-.initially-showing{
-  
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
 }
 
-.initially-hidden{
-
+.clickable1:hover {
+  text-decoration: underline;
 }
